@@ -1,9 +1,11 @@
-import BgColorChanger from "./BgColorChanger";
+// import BgColorChanger from "./projects/BgColorChanger";
+import ZibronicText from "./projects/ZibronicText";
 
 function App() {
   return (
     <div className="App">
-      <BgColorChanger />
+      {/* <BgColorChanger /> */}
+      <ZibronicText />
     </div>
   );
 }
